@@ -1,6 +1,8 @@
 
 
+
 ### Olá eu sou o kaque Luan 👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-luan-934517218/)
 #### Tecnologias 👇
 
 [![Pyhon](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -10,5 +12,5 @@
 ![Kaique GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueLuanP&show_icons=true&theme=radical)
 <br>
 
-Iniciando como programador, apaixonado por tecnologia e por mudar a vida das pessoas através da programação.📚👨🏾‍💻❤️
+Iniciando como programador, Apaixonado por tecnologia e por mudar a vida das pessoas através da programação.📚👨🏾‍💻❤️
 
