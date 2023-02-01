@@ -1,7 +1,7 @@
 
 
 
-### Olá eu sou o kaque Luan 👋
+### Olá eu sou o kaique Luan 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-luan-934517218/)
 #### Tecnologias 👇
 
